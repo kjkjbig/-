@@ -1,0 +1,79 @@
+body {
+    font-family: "Noto Sans Thai", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    margin: 0;
+    padding: 0;
+    background: url('./assest/suan.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    font-size:80px;
+    margin: 23%;
+}
+
+
+.bg h2 {
+    margin-top: 0;
+    text-align: center;
+    padding: 1em;
+    font-size:40px;
+}
+
+#img2 {
+    width: 1200px;
+    height: 600px;
+    border-radius: 10px;
+}
+
+#img3 {
+    width: 800;
+    height: auto;
+    border-radius: 10px;
+}
+
+#img4 {
+    width: 100;
+    height: auto;
+    border-radius: 10px;
+}
+
+#img5 {
+    width: 800px;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+.bg {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+.bg img {
+    width: 600px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: larger;
+    padding: 1em;
+}
+
+footer {
+    background-color:rgba(0, 0, 0, 0.795);
+    color: #fff;
+    text-align: center;
+    padding: 0.5em 0;
+    width: 100%;
+    bottom: 0;
+}
